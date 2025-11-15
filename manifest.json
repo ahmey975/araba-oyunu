@@ -1,0 +1,21 @@
+{
+    "name": "Murat Şener Drift Yarışı",
+    "short_name": "Drift Yarışı",
+    "description": "Virajlı pistlerde drift atarak yarışabileceğiniz eğlenceli bir araba oyunu.",
+    "start_url": "/ArabaOyunu.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "theme_color": "#2196f3",
+    "icons": [
+        {
+            "src": "/car-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/car-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
